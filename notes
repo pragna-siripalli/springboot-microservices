@@ -1,0 +1,7 @@
+05-Apr-2021
+--------------
+1 Node & 2 pods  - mysql(1 pod)
+1 Node - 3 java pods  - mysql(1 pod)
+Sql file 
+ Named user in mysql
+ schema for users table
