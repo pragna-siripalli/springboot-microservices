@@ -9,8 +9,8 @@ spring:
       ddl-auto: update
   datasource:
     url: jdbc:mysql://mysql-service:3306/mss_auth
-    username: root
-    password: root
+    username: user
+    password: password
 #  security:
 #    user:
 #      name: miracle
