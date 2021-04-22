@@ -1,3 +1,7 @@
-# springboot-microservices
+# Jwt-Authentication
 
-kubectl create configmap mysql-initdb-config --from-file=users.sql
+MSS-User-Auth -> 8090
+
+App-2 -> 8091
+
+FrontEnd -> 8092

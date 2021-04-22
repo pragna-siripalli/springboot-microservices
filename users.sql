@@ -18,7 +18,8 @@
 --
 -- Table structure for table `users`
 --
-
+CREATE DATABASE mss_auth;
+USE mss_auth;
 DROP TABLE IF EXISTS `users`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
@@ -51,3 +52,5 @@ UNLOCK TABLES;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
 -- Dump completed on 2021-04-06 18:58:30
+
+
